@@ -1,0 +1,2 @@
+command shift T = run all tests in file in ST2
+bundle exec guard - start auto tester.
