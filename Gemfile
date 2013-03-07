@@ -12,6 +12,7 @@ group :development, :test do
   gem 'growl', '1.0.3'
 	gem 'rb-fsevent', '0.9.1', :require => false
   gem 'spork', '0.9.2'
+  gem 'annotate','2.5.0'
 end
 
 gem 'json'
